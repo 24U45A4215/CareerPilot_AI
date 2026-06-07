@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Generate the Dataset
-Create the 1500-row balanced dataset.
+Create the 500-row balanced dataset.
 ```bash
 python dataset/generate_dataset.py
 ```
